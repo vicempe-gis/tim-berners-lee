@@ -1,0 +1,15 @@
+body {
+    background-color:rgb(19, 15, 37);
+    color:rgb(126, 142, 224);
+    font-family:Montserrat;
+    margin:0 12px 20 0;
+    border:2px solid;
+}
+
+h1 {
+    color:rgb(167, 115, 56);
+}       
+
+h2 {
+    color:rgb(128, 117, 99);
+} 
